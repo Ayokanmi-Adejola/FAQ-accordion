@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Repository]()
-- Live Site URL: [Live Site]()
+- Solution URL: [GitHub Repository](https://github.com/Ayokanmi-Adejola/FAQ-accordion)
+- Live Site URL: [Live Site](https://ayokanmi-adejola.github.io/FAQ-accordion/)
 
 ## My process
 
