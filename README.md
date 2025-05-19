@@ -112,9 +112,7 @@ In future projects, I'd like to focus more on:
 
 ## Author
 
-- Website - [Ayokanmi Adejola](https://ayokanmi-adejola-portfolio.netlify.app/)
 - Frontend Mentor - [Ayokanmi Adejola](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
-- Twitter - [Ayokanmi Adejola](https://x.com/AyoAdejola100)
 
 ## Acknowledgments
 
