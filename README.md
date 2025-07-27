@@ -2,19 +2,7 @@
 
 This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,10 +19,7 @@ Users should be able to:
 
 ![](preview.jpg)
 
-### Links
 
-- Solution URL: [GitHub Repository](https://github.com/Ayokanmi-Adejola/FAQ-accordion)
-- Live Site URL: [Live Site](https://ayokanmi-adejola.github.io/FAQ-accordion/)
 
 ## My process
 
@@ -113,7 +98,3 @@ In future projects, I'd like to focus more on:
 ## Author
 
 - Frontend Mentor - [Ayokanmi Adejola](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
-
-## Acknowledgments
-
-Thanks to Frontend Mentor for providing this challenge and to the community for their feedback and support.
