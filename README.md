@@ -94,7 +94,3 @@ In future projects, I'd like to focus more on:
 
 - [MDN Web Docs on ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) - This helped me understand how to make the accordion more accessible.
 - [CSS-Tricks Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - A great resource for understanding Flexbox layout.
-
-## Author
-
-- Frontend Mentor - [Ayokanmi Adejola](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
