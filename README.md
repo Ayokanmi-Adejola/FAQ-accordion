@@ -2,8 +2,7 @@
 
 This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-
-
+![](preview.jpg)
 
 
 ### The challenge
@@ -14,11 +13,6 @@ Users should be able to:
 - Navigate the questions and hide/show answers using keyboard navigation alone
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
-
-### Screenshot
-
-![](preview.jpg)
-
 
 
 ## My process
