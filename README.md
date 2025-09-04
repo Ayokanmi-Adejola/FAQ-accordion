@@ -2,7 +2,10 @@
 
 This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-![](preview.jpg)
+| Desktop | Mobile |
+| ------- | ------ |
+| <img width="1440" height="900" alt="image" src="https://github.com/user-attachments/assets/ff2a0389-4277-4b94-a67d-97896d321811" /> | <img width="375" height="812" alt="image" src="https://github.com/user-attachments/assets/a8a0cef1-2c13-40d4-a6e7-b713633ad8a9" />
+
 
 
 ### The challenge
